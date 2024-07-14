@@ -372,7 +372,6 @@ body {
   border: none;
   cursor: pointer;
   height: 30px;
-  transition: left 0.3s ease-in-out;
   position: relative;
 }
 .header-nav-title {
